@@ -1,3 +1,3 @@
-function print(s){
+function arion(s){
 alert(s);
 }

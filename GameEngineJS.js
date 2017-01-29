@@ -1,3 +1,3 @@
-function arion(s){
-alert(s);
+function arion({
+alert("Good");
 }
